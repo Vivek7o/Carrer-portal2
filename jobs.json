@@ -1,0 +1,23 @@
+{
+    "jobs": [
+      {
+        "title": "Frontend Developer",
+        "company": "TechSoft",
+        "location": "Remote",
+        "type": "Full-Time"
+      },
+      {
+        "title": "Backend Engineer",
+        "company": "DataWorks",
+        "location": "New York",
+        "type": "Part-Time"
+      },
+      {
+        "title": "UI/UX Designer",
+        "company": "Creatives Inc.",
+        "location": "San Francisco",
+        "type": "Contract"
+      }
+    ]
+  }
+   
